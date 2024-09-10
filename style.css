@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(0, 191, 255);
+}
+h1{
+    text-align: center;
+    font-size: 42px;
+    color: rgb(255,255,255)
+}
+li{
+    color: white;
+}
+.first{
+    color: purple;
+}
+.second{
+    color: black;
+}
+#cool{
+    color: green;
+}
+.blog{
+    color:aqua;
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    margin: 10px auto; /*margin X auto centers objects */
+    border: 3px solid white;
+    padding: 30px;
+}
+.list{
+    color: white;
+    font-size: 25px;
+}
+.text{
+    color: white;
+}
